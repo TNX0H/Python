@@ -7,17 +7,3 @@ if __name__ == '__main__':
             print(ind, el[:10])
         else:
             print(ind, el)
-
-
-
-
-
-
-
-
-
-
-
-#        if len(el)>10:
-           # (text.split()[:10],1)
-           # print(ind, el)
